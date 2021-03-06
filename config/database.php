@@ -3,7 +3,7 @@ class Database
 {
 
 private $host	=	"localhost";
-private $db 	=	"db_rest_api";
+private $db 	=	"employee";
 private $user 	=	"root";
 private $pass	=	"";
 
